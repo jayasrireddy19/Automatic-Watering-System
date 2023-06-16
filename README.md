@@ -12,8 +12,6 @@
    - [Architecture / Workflows](#architecture--workflows)
    - [Schematic Diagrams](#schematic-diagrams)
    - [Code and Upload](#code-and-upload)
-5. [Where to get help?](#5-where-to-get-help)
-6. [Contribution](#6-contribution)
 
 
 ### 1. What is Automatic Watering System (AWS)?
@@ -99,16 +97,4 @@ It helps you in watering at times when your not in home/place for long time. You
   3. 4 ML models were trained and the best accuracy model is used to predict the manually collected values of temperature and moisture values.
   4. [Datasets](https://github.com/Vaishnavi-Pothugunta/Automatic-Watering-System/blob/main/AWS-Dataset.csv) are also added in repo.
 
-### 5. Where to get help?  
-Few video links were attached, which Demonstrates how this Automatic watering System works. 
-  - [AWS using Sensor (Explained)](https://drive.google.com/file/d/10fOE0BtBTWe_BWOAbMEBUET6oRx-6mro/view?usp=sharing)
-  - [AWS using Timer (Explained)](https://drive.google.com/file/d/1Tco9xD43NAFRuQMOlxpQKpyb7fU_gnpl/view?usp=sharing)
-  - [AWS using Timer (Demo)](https://drive.google.com/file/d/17K4f0TS3x0JXuY7_YOmEyvH30YnfYwYq/view?usp=sharing)
-
-### 6. Contribution
-This is work done by a team of 5 students from Vellore Institute of Technology, Chennai
-  - [P Vaishnavi](https://github.com/Vaishnavi-Pothugunta)
-  - [N Sudheer Kumar](https://github.com/NelakurthiSudheer)
-  - [M Bhumika](https://github.com/Bhumika-Manchikanti)
-  - [Y Lakshmi Saicharitha](https://github.com/LakshmiSaicharitha-Yallarubailu)
-  - [T Jayasri](https://github.com/jayasrireddy19)
+  - 
